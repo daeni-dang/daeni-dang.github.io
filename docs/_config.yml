@@ -7,18 +7,18 @@
 
 remote_theme             : "mmistakes/minimal-mistakes@4.24.0"
 
-minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin    : "dark" # "derault", "air", "aqua", "contrast", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Minimal Mistakes"
+title                    : "daeni-dang"
 title_separator          : "-"
-subtitle                 : "A Jekyll theme"
-name                     : &name "Michael Rose" # &name is a YAML anchor which can be *referenced later
-description              : &description "A flexible Jekyll theme for your blog or site with a minimalist aesthetic."
-url                      : https://mmistakes.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+subtitle                 : ""
+name                     : &name "  Da-Eun Kim" # &name is a YAML anchor which can be *referenced later
+description              : &description "매일 기록하는 학습 일지"
+url                      : https://daeni-dang.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "/minimal-mistakes" # the subpath of your site, e.g. "/blog"
-repository               : "mmistakes/minimal-mistakes"
+repository               : "https://github.com/daeni-dang/daeni-dang.github.io"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
@@ -97,37 +97,31 @@ analytics:
 
 # Site Author
 author:
-  name             : *name # *name is a YAML reference pointing to the &anchor earlier
+  name             : "Da-Eun Kim" # *name is a YAML reference pointing to the &anchor earlier
   avatar           : "/assets/images/michael-rose.jpg"
-  bio              : "Just another *boring*, *tattooed*, *time traveling*, *designer*."
-  location         : "Buffalo, NY"
+  bio              : "" # 자기소개
+  location         : "Republic of Korea"
   links:
-    - label: "Made Mistakes"
-      icon: "fas fa-fw fa-link"
-      url: "https://mademistakes.com"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/mmistakes"
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: mailto:de021@naver.com
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/mmistakes"
+      url: "https://github.com/daeni-dang"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/mmistakes"
+      url: "https://instagram.com/daeun6363/"
 
 
 # Site Footer
 footer:
   links:
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/mmistakes"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/mmistakes"
+      url: "https://github.com/daeni-dang"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/mmistakes"
+      url: "https://instagram.com/daeun6363/"
 
 
 # Reading Files
@@ -271,7 +265,7 @@ sass:
 permalink: /:categories/:title/
 # paginate: 5 # amount of posts to show
 # paginate_path: /page:num/
-timezone: America/New_York # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
 # Plugins (previously gems:)
