@@ -1,13 +1,10 @@
 ---
-title: "Edge Case: Nested and Mixed Lists"
+title: "Boostcamp AI Tech - Day 01"
 categories:
-  - Edge Case
+  - Boostcamp AI Tech
 tags:
-  - content
-  - css
-  - edge case
-  - lists
-  - markup
+  - python
+  - ai math
 ---
 
 Nested and mixed lists are an interesting beast. It's a corner case to make sure that
