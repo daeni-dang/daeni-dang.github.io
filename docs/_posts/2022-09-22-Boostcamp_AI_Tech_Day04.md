@@ -1,5 +1,5 @@
 ---
-title: "Boostcamp AI Tech - Day 01"
+title: "Boostcamp AI Tech - Day 04"
 categories:
   - Boostcamp AI Tech
 tags:
