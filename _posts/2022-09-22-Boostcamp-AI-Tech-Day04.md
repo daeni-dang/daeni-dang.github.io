@@ -29,9 +29,9 @@ toc_sticky: true
     - 확률 분포를 가정하기 위해서는 히스토그램 모양을 관찰한다.
     - 정규분포의 모수는 평균 $\mu$과 분산 $\sigma$<sup>2</sup>
     - 표본평균
-        - $\overline{X}=\dfrac{1}{N}\sum ^{N}_{i=1}X_{i}$
+        $$ \overline{X}=\dfrac{1}{N}\sum ^{N}_{i=1}X_{i} $$
     - 표본분산
-        - $\overline{X}=\dfrac{1}{N-1}\sum ^{N}_{i=1}\left( X_{i}-\overline{X}\right) ^{2}$
+        $$ \overline{X}=\dfrac{1}{N-1}\sum ^{N}_{i=1}\left( X_{i}-\overline{X}\right) ^{2} $$
 
 - 최대가능도 추정법(```maximum likelihood estimation, MLE```)
     - 가능도 함수
@@ -41,10 +41,11 @@ toc_sticky: true
 <br><Br>
 
 ## Bayesian rule
-- 조건부 확률
-    - 조건부확률 $P\left( A\middle| B\right)$는 사건 $B$가 일어났을 때 사건 $A$가 일어날 확률이다.
-    - 베이즈 정리는 $P\left( A\cap B\right) =P\left( B\right) P\left( A\middle| B\right)$이고, $P\left( B\middle| A\right) =\dfrac{P\left( A\cap B\right) }{p\left( A\right) }$이므로 $P\left( A\cap B\right)$에 위의 식을 대입하면 $P\left( B\middle| A\right) =P\left( B\right) \dfrac{P\left( A\middle| B\right) }{p\left( A\right) }$를 얻을 수 있다.
-    - 베이즈 정리를 통해 앞의 사전확률을 다음 계산의 사전확률로 사용하면 갱신된 사후확률을 얻을 수 있다.
+- 조건부 확률<br><br>
+조건부확률 $P\left( A| B\right)$는 사건 $B$가 일어났을 때 사건 $A$가 일어날 확률이다.<br><br>
+베이즈 정리는 $P\left( A\cap B\right) =P\left( B\right) P\left( A| B\right)$이고, $P\left( B| A\right) =\dfrac{P\left( A\cap B\right) }{p\left( A\right) }$이므로 $P\left( A\cap B\right)$에 위의 식을 대입하면 $P\left( B| A\right) =P\left( B\right) \dfrac{P\left( A| B\right) }{p\left( A\right) }$를 얻을 수 있다.<br><br>
+베이즈 정리를 통해 앞의 사전확률을 다음 계산의 사전확률로 사용하면 갱신된 사후확률을 얻을 수 있다.
+
 <hr>
 
 # 일일 회고
