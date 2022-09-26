@@ -53,7 +53,7 @@ For even more demo pages check the [posts archive][year-archive].
 [gallery-post]: {{ "" | relative_url }}{% post_url 2010-09-09-post-gallery %}
 [html-tags-post]: {{ "" | relative_url }}{% post_url 2013-01-11-markup-html-tags-and-formatting %}
 [syntax-post]: {{ "" | relative_url }}{% post_url 2013-08-16-markup-syntax-highlighting %} -->
-[sample-collection]: {{ "/recipes/chocolate-chip-cookies/" | relative_url }}
+<!-- [sample-collection]: {{ "/recipes/chocolate-chip-cookies/" | relative_url }}
 [categories-archive]: {{ "/categories/" | relative_url }}
 [tags-archive]: {{ "/tags/" | relative_url }}
 [year-archive]: {{ "/year-archive/" | relative_url }}
@@ -82,4 +82,4 @@ For even more demo pages check the [posts archive][year-archive].
 
 ---
 
-Minimal Mistakes is designed, developed, and maintained by Michael Rose. Just another boring, tattooed, designer from Buffalo New York. -->
+Minimal Mistakes is designed, developed, and maintained by Michael Rose. Just another boring, tattooed, designer from Buffalo New York. --> -->
