@@ -4,24 +4,16 @@ categories:
   - Boostcamp AI Tech
 tags:
   - ai math
+toc: true
+toc_sticky: true
 ---
 
 ## AI Math & Python Basices for AI
+<br>
 
-1. [Python](#python)
-    - [Numpy](#numpy)
-2. [AI Math](#ai-math)
-    - [Statistics](#statistics)
-    - [Convolution Neural Network](#convolution-neural-network)
-    - [Recurrent Neural Network](#recurrent-neural-network)
-3. [일일 회고](#일일-회고)
-4. [출처](#출처)
-<hr><hr>
-<br><br>
+## 1. Python
 
-# Python
-
-# Numpy
+### 1.1 Numpy
 
 0. NumPy 참고 사이트
     - [NumPy](https://numpy.org/doc/stable/reference/routines.array-creation.html)
@@ -236,12 +228,11 @@ tags:
         np.where(a>5)
         ```
 
-<hr>
-<br><br>
+<br>
 
-# AI Math
+## 2. AI Math
 
-## Statistics
+### 2.1 Statistics
 <hr>
 
 - ```maximum likelihood estimation```
@@ -264,7 +255,7 @@ tags:
         - 쿨백-라이블러 발산이 0이면 두 확률분포는 같은 확률분포이다.
     3. ```Wasserstein Distance```
 
-## Convolution Neural Network
+### 2.2 Convolution Neural Network
 - 커널
     - 커널은 고정된 가중치 행렬이다.
 - convolution 연산
@@ -274,7 +265,7 @@ tags:
 <hr>
 <br><br>
 
-# 일일 회고
+## 3. 일일 회고
 - 새로 알게된 내용
     1. numpy에서 지원하는 다양한 모듈들에 대해 알게 되었다.
     2. 어제는 잘 이해가 되지 않던 maximum likelihood estimation을 여러 글과 심화과제 내용을 보며 조금 이해할 수 있었다.
@@ -286,6 +277,6 @@ tags:
     1. LNN을 공부하며 심화 과제를 해결할 것이다.
     2. 아직 maximum likelihood estimation을 완벽히 이해하지 못하여 심화 과제를 해결하며 이해해볼 것이다.
 
-# 출처
+## 4. 출처
 - [최대우도법(MLE)](https://angeloyeo.github.io/2020/07/17/MLE.html)
 - [쿨백-라이블러 발산](https://datascienceschool.net/02%20mathematics/10.03%20%EA%B5%90%EC%B0%A8%EC%97%94%ED%8A%B8%EB%A1%9C%ED%94%BC%EC%99%80%20%EC%BF%A8%EB%B0%B1-%EB%9D%BC%EC%9D%B4%EB%B8%94%EB%9F%AC%20%EB%B0%9C%EC%82%B0.html#id6)

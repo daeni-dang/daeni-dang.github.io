@@ -13,11 +13,11 @@ minimal_mistakes_skin    : "dark" # "derault", "air", "aqua", "contrast", "dirt"
 locale                   : "en-US"
 title                    : "daeni-dang"
 title_separator          : "-"
-subtitle                 : ""
-name                     : &name "  Da-Eun Kim" # &name is a YAML anchor which can be *referenced later
+subtitle                 : "ddd"
+name                     : &name "Da-Eun Kim" # &name is a YAML anchor which can be *referenced later
 description              : &description "매일 기록하는 학습 일지"
-url                      : https://daeni-dang.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-baseurl                  : "/minimal-mistakes" # the subpath of your site, e.g. "/blog"
+url                      : "https://daeni-dang.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+baseurl                  : "https://github.com/daeni-dang" # the subpath of your site, e.g. "/blog"
 repository               : "https://github.com/daeni-dang/daeni-dang.github.io"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
@@ -72,9 +72,9 @@ baidu_site_verification  :
 
 # Social Sharing
 twitter:
-  username               : &twitter "mmistakes"
+  username               : 
 facebook:
-  username               : &facebook "michaelrose"
+  username               : 
   app_id                 :
   publisher              :
 og_image                 : "/assets/images/site-logo.png" # Open Graph/Twitter default site image
@@ -99,7 +99,7 @@ analytics:
 author:
   name             : "Da-Eun Kim" # *name is a YAML reference pointing to the &anchor earlier
   avatar           : "/assets/images/michael-rose.jpg"
-  bio              : "" # 자기소개
+  bio              : "안녕하세요" # 자기소개
   location         : "Republic of Korea"
   links:
     - label: "Email"

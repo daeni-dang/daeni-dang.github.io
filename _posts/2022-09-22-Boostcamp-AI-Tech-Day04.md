@@ -4,17 +4,13 @@ categories:
   - Boostcamp AI Tech
 tags:
   - ai math
+toc: true
+toc_sticky: true
 ---
 
 ## AI Math & Python Basices for AI
 
-- [AI Math](#ai-math)
-    - [Statistics](#statistics)
-    - [Bayesian rule](#bayesian-rule)
-- [일일 회고](#일일-회고)
-- [출처](#출처)
-<hr><hr>
-<br><br>
+<br>
 
 # AI Math
 

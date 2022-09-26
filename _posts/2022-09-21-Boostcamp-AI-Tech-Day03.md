@@ -5,22 +5,13 @@ categories:
 tags:
   - python
   - ai math
+toc: true
+toc_sticky: true
 ---
 
 ## AI Math & Python Basices for AI
 
-1. [Python](#Python)
-    - [Pythonic Code](#pythonic-code)
-        - [split & join](#split--join)
-        - [list comprehension](#list-comprehension)
-        - [enumerate & zip](#enumerate--zip)
-        - [asterisk](#asterisk)
-    - [Python Object Oriented Programming](#python-object-oriented-programming)
-2. [AI Math](#ai-math)
-    - [Deep Learning Basic](#deep-learning-basic)
-    - [Probability theory](#probability-theory)
-<hr><hr>
-<br><br>
+<br>
 
 # Python
 

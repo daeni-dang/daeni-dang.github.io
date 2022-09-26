@@ -5,22 +5,13 @@ categories:
 tags:
   - python
   - ai math
+toc: true
+toc_sticky: true
 ---
 
 ## AI Math & Python Basices for AI
 
-1. [Python](#Python)
-    - [Python Data Structure](#variable--list)
-        - [Stack](#variables)
-        - [Queue](#list)
-        - [Tuple](#tuple)
-        - [Set](#set)
-        - [Dict](#dict)
-        - [Collections](#collections)
-2. [AI Math](#ai-math)
-    - [Gradient Descent I](#gradient-descent-i)
-<hr><hr>
-<br><br>
+<br>
 
 # Python
 

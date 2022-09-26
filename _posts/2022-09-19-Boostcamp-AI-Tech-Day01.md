@@ -5,33 +5,20 @@ categories:
 tags:
   - python
   - ai math
+toc: true
+toc_sticky: true
 ---
 
 ## AI Math & Python Basices for AI
 
-1. [Python](#Python)
-    - [Variable & List](#variable--list)
-        - [Variables](#variables)
-        - [List](#list)
-    - [Functions & Console IO](#functions--console-io)
-        - [function](#function)
-        - [console I/O](#console-io)
-    - [Conditionals & Loops](#conditionals--loops)
-        - [condition](#condition)
-        - [loop](#loop)
-        - [debugging](#debugging)
-2. [AI Math](#ai-math)
-    - [Vector](#vector)
-    - [Matrix](#matrix)
-<hr><hr>
-<br><br>
+<br>
 
-# Python
+## Python
 
-## Variable & List
+### Variable & List
 <hr>
 
-### Variables
+#### Variables
 - 변수란 ```값을 저장하는 장소```이다.
 
 - 각 변수는 메모리 주소를 가지고 있으며, 변수에 들어가는 값은 메모리 주소에 할당된다.
@@ -48,7 +35,7 @@ tags:
 
 - 파이썬은 ```Dynamic Typing 언어```로, 사용자가 직접 자료형을 지정하지 않고 실행 중 자료형이 결정된다는 특징이 있다.
 
-### List
+#### List
 - List는 ```여러 개의 데이터의 집합```이다.
 - 파이썬의 경우 리스트 안에 ```다양한 자료형의 데이터```를 넣을 수 있다.
 ```python
@@ -123,10 +110,10 @@ print(array[1:6]) # b ~ f
 <br>
 <br>
 
-## Functions & Console IO
+### Functions & Console IO
 <hr>
 
-### function
+#### function
 - 함수란 ```특정 동작을 하는 코드의 덩어리```이다.
 - 함수로 코드를 ```캡슐화```할 수 있다.
 ```python
@@ -146,7 +133,7 @@ def 함수명(parameter1, ...):
         ```python
         print(f(2))
         ```
-### console I/O
+#### console I/O
 - input 함수를 이용해 ```문자열을 입력```받을 수 있다.
 ```python
 something = input()
