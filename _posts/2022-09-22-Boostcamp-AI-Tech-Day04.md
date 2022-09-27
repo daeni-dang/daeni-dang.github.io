@@ -37,7 +37,7 @@ toc_sticky: true
     - 가능도 함수
         - x를 확률분포가 가질 수 있는 실수값, $\theta$를 확률밀도함수의 모수라고 하면 확률밀도함수를 $p( x;\theta)$로 나타낼 수 있다. 여기에서 x를 상수로 놓고 $\theta$를 변수로 여긴다. 이렇게 모수를 변수로 보는 경우, 이 함수를 ```가능도 함수```라고 한다. $p\left( x;\theta \right)$를 가능도 함수로 보면 $L\left( x;\theta \right)$로 표기한다.
     - 얻어진 데이터를 바탕으로 확률변수의 모수를 구하는 방법이다.
-    - [추가 내용](2022-09-22-day05.md/#statistics)
+    - [추가 내용](2022-09-22-Boostcamp-AI-Tech-Day05.md/#statistics)
 <br><Br>
 
 ## Bayesian rule
