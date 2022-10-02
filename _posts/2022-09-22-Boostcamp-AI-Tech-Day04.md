@@ -1,7 +1,7 @@
 ---
 title: "Boostcamp AI Tech - Day 04"
 categories:
-  - Boostcamp AI Tech
+  - daily-report
 tags:
   - ai math
 toc: true

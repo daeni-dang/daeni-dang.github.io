@@ -1,7 +1,7 @@
 ---
 title: "Boostcamp AI Tech - Day 09"
 categories:
-  - Boostcamp AI Tech
+  - daily-report
 tags:
   - pytorch
 toc: true
@@ -12,7 +12,7 @@ toc_sticky: true
 
 ## 1. 오늘 배운 내용
 ### 1.1 모델 저장하기 & 불러오기
-- [모델 저장 & 불러오기]({% post_url 2022-09-29-model-save %})
+- [모델 저장 & 불러오기](2022-09-29-model-save.html)
 
 ### 1.2 전이 학습
 - 공부중!

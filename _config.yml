@@ -16,10 +16,10 @@ minimal_mistakes_skin    : "dark" # "air", "aqua", "contrast", "dark", "dirt", "
 
 # Site Settings
 locale                   : "ko-KR"
-title                    : "My Blog"
+title                    : "Daeun's Tech Blog"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "Da-Eun Kim"
+name                     : "Daeun Kim"
 description              : "매일 정리하는 학습 일지"
 url                      : "https://daeni-dang.github.io/"
 baseurl                  : # the subpath of your site, e.g. "/blog"
@@ -104,7 +104,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Da-Eun Kim"
+  name             : "Daeun Kim"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Boostcamp AI Tech 4기"
   location         : "Republic of Korea"
@@ -197,7 +197,7 @@ sass:
 
 # Outputting
 permalink: /:categories/:title/
-paginate: 5 # amount of posts to show
+paginate: 10 # amount of posts to show
 paginate_path: /page:num/
 timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
@@ -269,3 +269,4 @@ defaults:
       comments: # true
       share: true
       related: true
+      sidebar_main: true

@@ -1,7 +1,7 @@
 ---
 title: "Boostcamp AI Tech - Day 02"
 categories:
-  - Boostcamp AI Tech
+  - daily-report
 tags:
   - python
   - ai math

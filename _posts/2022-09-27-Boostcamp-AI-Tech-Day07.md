@@ -1,7 +1,7 @@
 ---
 title: "Boostcamp AI Tech - Day 07"
 categories:
-  - Boostcamp AI Tech
+  - daily-report
 tags:
   - pytorch
 toc: true

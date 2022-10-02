@@ -1,7 +1,7 @@
 ---
 title: "Boostcamp AI Tech - Day 10"
 categories:
-  - Boostcamp AI Tech
+  - daily-report
 tags:
   - pytorch
 toc: true
@@ -12,7 +12,7 @@ toc_sticky: true
 
 ## 1. 오늘 배운 내용
 ### Transfer learning
-- [Transfer learning]({% post_url 2022-09-29-transfer-learning %})
+- [Transfer learning](2022-09-29-transfer-learning.html)
 
 ## 2. 과제 수행
 - (심화-1) Transfer Learning & Hyper Parameter Tuning
