@@ -1,7 +1,7 @@
 ---
 title: "Transfer Learning"
 categories:
-  - Boostcamp AI Tech
+  - til
 tags:
   - pytorch
 toc: true

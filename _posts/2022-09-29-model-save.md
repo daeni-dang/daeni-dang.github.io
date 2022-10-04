@@ -1,7 +1,7 @@
 ---
 title: "모델 저장 & 불러오기"
 categories:
-  - Boostcamp AI Tech
+  - til
 tags:
   - pytorch
 toc: true

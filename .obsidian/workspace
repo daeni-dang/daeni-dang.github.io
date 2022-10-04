@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "_posts/2022-09-26-Boostcamp-AI-Tech-Day06.md",
+            "file": "_posts/2022-10-04-Boostcamp-AI-Tech-Day12.md",
             "mode": "source",
             "source": false
           }
@@ -57,8 +57,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -78,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_posts/2022-09-26-Boostcamp-AI-Tech-Day06.md",
+                "file": "_posts/2022-10-04-Boostcamp-AI-Tech-Day12.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_posts/2022-09-26-Boostcamp-AI-Tech-Day06.md",
+                "file": "_posts/2022-10-04-Boostcamp-AI-Tech-Day12.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_posts/2022-09-26-Boostcamp-AI-Tech-Day06.md"
+                "file": "_posts/2022-10-04-Boostcamp-AI-Tech-Day12.md"
               }
             }
           }
@@ -129,6 +128,14 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "9880a18fd12c8763",
-  "lastOpenFiles": []
+  "active": "53388ef26eca187c",
+  "lastOpenFiles": [
+    "_posts/2022-09-29-Boostcamp-AI-Tech-Day09.md",
+    "_posts/2022-09-30-Boostcamp-AI-Tech-Day10.md",
+    "_posts/2022-10-04-Boostcamp-AI-Tech-Day12.md",
+    "_posts/2022-10-04-loss-function.md",
+    "_posts/2022-10-01-transfer-learning.md",
+    "_posts/2022-09-29-model-save.md",
+    "_posts/2022-09-26-Boostcamp-AI-Tech-Day06.md"
+  ]
 }
