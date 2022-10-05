@@ -12,7 +12,7 @@ toc_sticky: true
 
 ## 1. 오늘 배운 내용
 ### 1.1 모델 저장하기 & 불러오기
-- [모델 저장 & 불러오기](2022-09-29-model-save.html)
+- [모델 저장 & 불러오기](https://daeni-dang.github.io/til/model-save/)
 
 ### 1.2 전이 학습
 - 공부중!

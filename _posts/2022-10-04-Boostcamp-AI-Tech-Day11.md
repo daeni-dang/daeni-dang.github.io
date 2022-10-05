@@ -1,5 +1,5 @@
 ---
-title: "Boostcamp AI Tech - Day 12"
+title: "Boostcamp AI Tech - Day 11"
 categories:
   - daily-report
 tags:
@@ -14,7 +14,7 @@ toc_sticky: true
 - 딥러닝의 구성 요소
 	1. data
 	2. model
-	3. [loss function](../_posts/2022-10-04-loss-function.md)
+	3. [loss function](https://daeni-dang.github.io/til/loss-function/)
 	4. optimization algorithm
 - Multi Layer Perceptron(MLP)
 - Optimization

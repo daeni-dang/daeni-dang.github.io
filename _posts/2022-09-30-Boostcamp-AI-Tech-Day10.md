@@ -12,7 +12,7 @@ toc_sticky: true
 
 ## 1. 오늘 배운 내용
 ### Transfer learning
-- [Transfer learning](2022-09-29-transfer-learning.html)
+- [Transfer learning](https://daeni-dang.github.io/til/transfer-learning/)
 
 ## 2. 과제 수행
 - (심화-1) Transfer Learning & Hyper Parameter Tuning
