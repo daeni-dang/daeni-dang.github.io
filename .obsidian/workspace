@@ -7,8 +7,12 @@
         "id": "df52ac3763609161",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "_posts/daily-report/2022-10-07-Boostcamp-AI-Tech-Day14.md",
+            "mode": "source",
+            "source": false
+          }
         }
       }
     ],
@@ -57,7 +61,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 427.5
+    "width": 372.5
   },
   "right": {
     "id": "c5b475558e53321b",
@@ -73,6 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "_posts/daily-report/2022-10-07-Boostcamp-AI-Tech-Day14.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,6 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "_posts/daily-report/2022-10-07-Boostcamp-AI-Tech-Day14.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -110,7 +116,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "_posts/daily-report/2022-10-07-Boostcamp-AI-Tech-Day14.md"
+              }
             }
           }
         ]
@@ -122,15 +130,15 @@
   },
   "active": "df52ac3763609161",
   "lastOpenFiles": [
-    "_posts/daily-report/2022-09-19-Boostcamp-AI-Tech-Day01.md",
-    "_posts/daily-report/2022-09-20-Boostcamp-AI-Tech-Day02.md",
-    "_posts/daily-report/2022-09-21-Boostcamp-AI-Tech-Day03.md",
-    "_posts/TIL/2022-10-06-transformer.md",
-    "_posts/daily-report/2022-10-06-Boostcamp-AI-Tech-Day13.md",
-    "_posts/daily-report/2022-10-05-Boostcamp-AI-Tech-Day12.md",
+    "_posts/TIL/2022-10-07-lstm.md",
+    "_posts/daily-report/2022-10-07-Boostcamp-AI-Tech-Day14.md",
     "_posts/TIL/2022-10-05-fully-convolutional-network.md",
+    "_posts/daily-report/2022-10-06-Boostcamp-AI-Tech-Day13.md",
+    "assets/img/generative_model.png",
+    "Pasted image 20221007215037 1.png",
+    "assets/img/fcn.png",
     "_posts/daily-report/2022-09-30-Boostcamp-AI-Tech-Day10.md",
-    "_posts/daily-report/2022-09-27-Boostcamp-AI-Tech-Day07.md",
-    "_posts/daily-report/2022-09-28-Boostcamp-AI-Tech-Day08.md"
+    "_posts/daily-report/2022-09-19-Boostcamp-AI-Tech-Day01.md",
+    "_posts/daily-report/2022-09-20-Boostcamp-AI-Tech-Day02.md"
   ]
 }
