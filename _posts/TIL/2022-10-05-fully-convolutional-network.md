@@ -14,9 +14,9 @@ FCN은 semantic segmentation을 위하여 기존의 CNN 기반 모델을 변형�
 ## 2. 핵심 아이디어
 FCN의 핵심 아이디어는 아래 그림의 아래과 같이 fully connected인 레이어를 1x1 레이어로 대체하는 것입니다.
 
-![image](assets/img/fcn.png)
+![image](../../assets/img/fcn.png)
 <center><small>(출처 : https://m.blog.naver.com/laonple/220958109081)</small></center>
-
+<br>
 기존의 CNN은 그림에서 윗부분처럼 컨볼루션을 거친 뒤 펼친 뒤(flat) fully connected를 거쳐 원하는 차원으로 변경합니다. 하지만 이렇게 이 fc 레이어를 거치고 나면 기존의 위치 정보가 모두 사라지게 된다. semantic segmentation을 할 때는 라벨을 구분만 하는 것이 아니라 어느 위치에 있는지까지 파악을 해야하기 때문에 문제가 발생하게 됩니다. 
 
 그래서 FCN에서는 fully connected layer를 1x1 컨볼루션 간주하여 위치 정보를 유지하게 되어 semantic segmentation을 할 수 있습니다.
