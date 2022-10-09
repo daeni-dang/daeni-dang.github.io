@@ -154,9 +154,10 @@ toc_sticky: true
     2. axis
         - 기준이 되는 ```dimension``` 축
             - 2차원
-                - ![axis_2](../assets/img/axis_2.PNG)
+                - ![axis_2](../../assets/img/axis_2.PNG)
             - 3차원
-                - ![axis_3](../assets/img/axis_3.PNG)
+                - ![axis_3](../../assets/img/axis_3.PNG)
+            
             ```python
             arr.sum(axis=0)
             ```
@@ -239,14 +240,14 @@ toc_sticky: true
     - ```likelihood function```
         - 현재 데이터가 특정 분포로부터 나왔을 가능도이다.
         - 가능도를 계산하기 위해서는 likelihood 기여도(분포에 대한 높이)를 계산해서 모두 곱한 것이다.
-        - 이를 수식으로 나타낸 likelihood function은 아래와 같다.
-            - $P\left( x\middle| \theta \right) =\prod ^{n}_{k=1}P\left( x_{k}| \theta \right)$
-        - log-likelihood function은 아래와 같다.
-            - $L(\theta|x)=logP\left( x\middle| \theta \right) =\sum ^{n}_{i=1}logP\left( x_{i}\middle| \theta \right)$
+        - 이를 수식으로 나타낸 likelihood function은 아래와 같다.<br><center>
+        $$ P\left( x| \theta \right) =\prod ^{n}_{k=1}P\left( x_{k}| \theta \right) $$</center>
+        - log-likelihood function은 아래와 같다.<br><center>
+            $$ L(\theta|x)=logP\left( x| \theta \right) =\sum ^{n}_{i=1}logP\left( x_{i}| \theta \right) $$</center>
         - ```maximum likelihood estimation```
-            - 즉, 최대 가능도 함수는 ```likelihood function```의 최대값을 찾는 방법이다.
-            - 이를 위해 $L(\theta|x)$를 $\theta$에 대해 편미분한 값이 0이 되는 $\theta$를 찾는다. 
-                - $\begin{aligned}\dfrac{\partial }{\partial \theta }L\left( \theta \middle| x\right) =\dfrac{\partial }{\partial \theta }\log P\left( x\middle| \theta \right) \\ =\sum ^{n}_{i=1}\dfrac{\partial }{\partial \theta }logP\left( x_{i}\middle| \theta \right) =0\end{aligned}$
+            - 즉, 최대 가능도 함수는 ```likelihood function```의 최대값을 찾는 방법이다.<br>
+            이를 위해 $L(\theta|x)$를 $\theta$에 대해 편미분한 값이 0이 되는 $\theta$를 찾는다. 
+            $$ \begin{aligned}\dfrac{\partial }{\partial \theta }L\left( \theta | x\right) =\dfrac{\partial }{\partial \theta }\log P\left( x| \theta \right) \\ =\sum ^{n}_{i=1}\dfrac{\partial }{\partial \theta }logP\left( x_{i}| \theta \right) =0\end{aligned} $$
             - 따라서 최대가능도 추정법은 가장 높은 가능성을 가지는 모수를 추정하는 방법이다.
 - 확률분포의 거리
     1. ```Total Variation Distance```
@@ -263,7 +264,7 @@ toc_sticky: true
     - 계산량을 줄일 수 있다.
 
 <hr>
-<br><br>
+<br>
 
 ## 3. 일일 회고
 - 새로 알게된 내용
