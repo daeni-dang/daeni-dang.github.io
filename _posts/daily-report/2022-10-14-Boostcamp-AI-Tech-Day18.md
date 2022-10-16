@@ -1,5 +1,5 @@
 ---
-title: "Boostcamp AI Tech - Day 17"
+title: "Boostcamp AI Tech - Day 18"
 categories:
   - daily-report
 tags:
@@ -27,12 +27,7 @@ toc_sticky: true
 	- Autoencoder + CF
 - CDAE
 
-
-
-
-## 2. 회고
-
-## 3. 더 공부할 내용
+## 2. 더 공부할 내용
 - MLE
 - Transformer
 - MF, ALS
