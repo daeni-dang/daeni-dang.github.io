@@ -18,15 +18,15 @@ minimal_mistakes_skin    : "dark" # "air", "aqua", "contrast", "dark", "dirt", "
 locale                   : "ko-KR"
 title                    : "Daeun's Tech Blog"
 title_separator          : "-"
-subtitle                 : # site tagline that appears below site title in masthead
+subtitle                 : 
 name                     : "Daeun Kim"
-description              : "매일 정리하는 학습 일지"
+description              : "Daeun's Tech Blog"
 url                      : "https://daeni-dang.github.io/"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "https://github.com/daeni-dang"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
-logo                     : "/assets/img/daeni.png"
-masthead_title           : " "
+logo                     : ../../assets/img/booduck.png
+masthead_title           : "Daeun's Tech Blog"
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
 comments:
@@ -105,7 +105,7 @@ analytics:
 # Site Author
 author:
   name             : "Daeun Kim"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/img/daeni.png"
   bio              : "Boostcamp AI Tech 4기"
   location         : "Republic of Korea"
   email            :
