@@ -3,7 +3,7 @@ title: "Boostcamp AI Tech - Day 19"
 categories:
   - daily-report
 tags:
-  - Recommend system
+  - RecSys
 toc: true
 toc_sticky: true
 ---

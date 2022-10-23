@@ -3,7 +3,7 @@ title: "Boostcamp AI Tech - Day 20"
 categories:
   - daily-report
 tags:
-  - Recommend system
+  - RecSys
 toc: true
 toc_sticky: true
 ---
@@ -26,10 +26,19 @@ $$ \hat{y}(x) = w_0 + \sum_{i=1}^{n}w_ix_i + \sum_{i=1}^{n}\sum_{j=i+1}^{n}<v_{i
 - Gradient Boosting Machine (GBM)
 	- loss function이 줄어드는 방향으로 weak learner를 연속적으로 학습하여 결합
 - 깃헙 특강 Part 2
-	- branch
-	- push
-	- pull
+	- ```git branch```
+	- ```git push```
+	- ```git pull```
 	- conflict 해결
+	- ```add```의 3대 의미
+		1. commit 대기 상태로 만들음
+		2. untracked -> tracked로 만들음
+		3. 충돌 해결했다는 것을 git에게 알려줌
+	- ```git reset```
+		- HEAD가 가리키는 branch를 옮긴다.
+		- ```git reset --hard HEAD@{1}```로도 사용 가능
+	- ```git remote```
+		- 원격 저장소와 로컬 저장소 연결
 	
 ## 2. 피어세션
 -   질문
