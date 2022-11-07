@@ -59,64 +59,24 @@
             "id": "d6c480073e7ae61e",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_posts/daily-report/2022-10-21-Boostcamp-AI-Tech-Day23.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           },
           {
-            "id": "7a68c6924a046349",
+            "id": "ccd77e9937fc900b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/TIL/2022-10-08-lstm.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "30d49f4e6c5b517f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_posts/daily-report/2022-10-24-Boostcamp-AI-Tech-Day24.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c63669724d03dd33",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_posts/daily-report/2022-10-28-Boostcamp-AI-Tech-Day28.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2cd46c670207d30a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_posts/daily-report/2022-10-17-Boostcamp-AI-Tech-Day19.md",
+                "file": "_posts/daily-report/2022-11-07-Boostcamp-AI-Tech-W8-Day34.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -166,7 +126,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 337.5
+    "width": 331.5
   },
   "right": {
     "id": "c5b475558e53321b",
@@ -182,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_posts/daily-report/2022-10-28-Boostcamp-AI-Tech-Day28.md",
+                "file": "_posts/daily-report/2022-11-07-Boostcamp-AI-Tech-W8-Day34.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -199,7 +159,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_posts/daily-report/2022-10-28-Boostcamp-AI-Tech-Day28.md",
+                "file": "_posts/daily-report/2022-11-07-Boostcamp-AI-Tech-W8-Day34.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -222,7 +182,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_posts/daily-report/2022-10-28-Boostcamp-AI-Tech-Day28.md"
+                "file": "_posts/daily-report/2022-11-07-Boostcamp-AI-Tech-W8-Day34.md"
               }
             }
           }
@@ -233,20 +193,17 @@
     "width": 300,
     "collapsed": true
   },
-  "ribbon": {
-    "mostRecentAction": ""
-  },
-  "active": "c63669724d03dd33",
+  "active": "ccd77e9937fc900b",
   "lastOpenFiles": [
-    "_posts/daily-report/2022-10-27-Boostcamp-AI-Tech-Day27.md",
-    "_posts/daily-report/2022-10-28-Boostcamp-AI-Tech-Day28.md",
-    "_posts/daily-report/2022-10-26-Boostcamp-AI-Tech-Day26.md",
-    "_posts/daily-report/2022-10-25-Boostcamp-AI-Tech-Day25.md",
-    "_posts/daily-report/2022-10-24-Boostcamp-AI-Tech-Day24.md",
-    "_posts/TIL/2022-10-24-evaluation.md",
+    "Pasted image 20221107181154.png",
+    "Pasted image 20221107181009.png",
+    "_posts/daily-report/2022-11-07-Boostcamp-AI-Tech-W8-Day34.md",
+    "_posts/daily-report/2022-10-21-Boostcamp-AI-Tech-Day23.md",
+    "_posts/daily-report/Untitled.md",
+    "_posts/daily-report/2022-09-20-Boostcamp-AI-Tech-Day02.md",
+    "_posts/daily-report/2022-09-19-Boostcamp-AI-Tech-Day01.md",
+    "_posts/contest/eda.md",
     "_posts/TIL/2022-10-08-lstm.md",
-    "_posts/daily-report/2022-10-11-Boostcamp-AI-Tech-Day15.md",
-    "_posts/daily-report/2022-10-12-Boostcamp-AI-Tech-Day16.md",
-    "_posts/daily-report/2022-10-21-Boostcamp-AI-Tech-Day23.md"
+    "EDA 767b0a80aa28497b90cb80a48c73ca22/Untitled 1.png.md"
   ]
 }
