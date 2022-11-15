@@ -8,7 +8,7 @@ toc: true
 toc_sticky: true
 ---
 
-## AI 서비스 개발 기초
+## DKT
 
 ## 1. 오늘 배운 내용
 ### DKT란?
