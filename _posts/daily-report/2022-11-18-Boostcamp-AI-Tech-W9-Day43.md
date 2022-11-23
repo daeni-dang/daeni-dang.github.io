@@ -11,7 +11,7 @@ toc_sticky: true
 ## DKT
 
 ## 1. 오늘 배운 내용
-#### feature engineering
+### feature engineering
 Bottom-up : 데이터에서 출발
 Top-down : 가설에서 출발
 
@@ -19,7 +19,7 @@ numerical : histogram, distribution plot
 categorical : barplot
 
 
-#### 대회
+### 대회
 우리 데이터에서 numerical feature와 categorical feature 구분해보기.
 
 이전에 풀었던 문항을 또 푼 경우. 맞았다면 또 맞을 확률이 높을 것이다. 다른 시험지인데 유사한 문제가 나올 경우는?

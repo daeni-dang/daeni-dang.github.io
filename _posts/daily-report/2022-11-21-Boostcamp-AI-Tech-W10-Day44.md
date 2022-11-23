@@ -12,7 +12,7 @@ toc_sticky: true
 
 ## 1. 오늘 배운 내용
 
-#### 대회
+### 대회
 - lstmattn에 kfold를 적용해봤다.
   - dkt에 lstm, lstmattn, bert 세 개가 있었는데 가장 성능이 좋았던 lstmattn에 적용.
   - 유저별로 train, validation을 split했다.
@@ -22,7 +22,7 @@ toc_sticky: true
 - feature engineering 해서 lstmattn에 적용해보려 했는데 베이스라인 코드를 너무 많이 수정해야 함. 
   - dkt를 버린다? -> 나는 버리는 게 맞다고 생각함.
 
-#### 앞으로 계획
+### 앞으로 계획
 - lightGCN에 kfold를 적용해보자.
 - feature engineering을 통해 feature 개수를 늘린 다음 catboost를 적용해보자.
 
